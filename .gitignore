@@ -8,3 +8,5 @@ svc_standardscaler_gridsearch_normalizers_dump.pkl
 svc_standardscaler_gridsearch_xy_dump.pkl
 image.png
 resized_image.png
+jonathanheix dataset/svc_model_best_standardscaler_grisearch_pca_dump.pkl
+jonathanheix dataset/svc_model_standardscaler_grisearch_pca_dump.pkl
