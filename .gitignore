@@ -14,3 +14,4 @@ dataset_dump.pkl
 knn_model_standardscaler_grisearch_pca_dump.pkl
 jonathanheix dataset/svc_standardscaler_gridsearch_pca_normalizers_dump.pkl
 jonathanheix dataset/final/labelencoder_standardscaler_pca_normalizers_dump.pkl
+jonathanheix dataset/final/random_forest_model_standardscaler_grisearch_pca_dump.pkl
