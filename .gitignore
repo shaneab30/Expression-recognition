@@ -10,3 +10,5 @@ image.png
 resized_image.png
 jonathanheix dataset/svc_model_best_standardscaler_grisearch_pca_dump.pkl
 jonathanheix dataset/svc_model_standardscaler_grisearch_pca_dump.pkl
+dataset_dump.pkl
+knn_model_standardscaler_grisearch_pca_dump.pkl
