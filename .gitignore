@@ -17,3 +17,4 @@ jonathanheix dataset/final/labelencoder_standardscaler_pca_normalizers_dump.pkl
 jonathanheix dataset/final/random_forest_model_standardscaler_grisearch_pca_dump.pkl
 labelencoder_standardscaler_pca_normalizers_dump.pkl
 jonathanheix dataset/pytorch/labelencoder_standardscaler_normalizers_dump.pkl
+jonathanheix dataset/pytorch/simple_nn_model.pth
