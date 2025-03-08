@@ -27,13 +27,15 @@ image = image.resize((48, 48))
 
 image.save(f'resized_{image_name}.png')
 
+scaler_pkl = os.path("/dump/standardscaler_pca_normalizers_dump.pkl")
+
 # scale image with standard scaler
-label_encoder, pca, scaler = load(open("svc_standardscaler_gridsearch_normalizers_dump.pkl", "rb"))
+label_encoder, pca, scaler = load(open("/dump/labelencoder_standardscaler_pca_normalizers_dump.pkl", "rb"))
 image = pca.transform(image)
 image = scaler.transform(image)
 
 # machine learning
-svc_model = load(open("svc_model_standardscaler_grisearch_pca_dump.pkl", "rb"))
+svc_model = load(open("/final/knn_model_standardscaler_grisearch_pca_dump.pkl", "rb"))
 y = svc_model.predict(image)
 
 label = label_encoder.inverse_transform(y)
