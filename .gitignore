@@ -20,3 +20,5 @@ jonathanheix dataset/pytorch/labelencoder_standardscaler_normalizers_dump.pkl
 jonathanheix dataset/pytorch/simple_nn_model.pth
 jonathanheix dataset/pytorch/preprocessed_data.pkl
 jonathanheix dataset/pytorch/preprocessed_data_nonpca.pkl
+jonathanheix dataset/final/improved_preprocessed_data.pkl
+jonathanheix dataset/final/knn_model.pkl
