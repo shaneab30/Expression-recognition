@@ -22,3 +22,4 @@ jonathanheix dataset/pytorch/preprocessed_data.pkl
 jonathanheix dataset/pytorch/preprocessed_data_nonpca.pkl
 jonathanheix dataset/final/improved_preprocessed_data.pkl
 jonathanheix dataset/final/knn_model.pkl
+jonathanheix dataset/final/final basis/random_forest_model_standardscaler_grisearch_pca_dump.pkl
