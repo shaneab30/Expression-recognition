@@ -22,5 +22,3 @@ jonathanheix dataset/pytorch/preprocessed_data.pkl
 jonathanheix dataset/pytorch/preprocessed_data_nonpca.pkl
 jonathanheix dataset/final/improved_preprocessed_data.pkl
 jonathanheix dataset/final/knn_model.pkl
-jonathanheix dataset/pytorch/GANs/gan_images
-jonathanheix dataset/pytorch/GANs/gan_custom_images
